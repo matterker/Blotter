@@ -46,7 +46,7 @@
     "build": "npm run build-custom-three && grunt"
   },
   "dependencies": {
-    "three": "^0.89.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "browserify": "^15.2.0",
